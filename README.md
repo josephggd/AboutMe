@@ -1,5 +1,5 @@
 # AboutMe
-Following UDACITY tutorial for AboutMe
+<b>Following UDACITY tutorial for AboutMe</b>
 
 This tutorial covers lateinit and data binding. Data binding creates a central variable that can be used:
 * in .kt files to reference values
